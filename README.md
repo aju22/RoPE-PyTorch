@@ -10,7 +10,7 @@ RoPE is a technique to incorporate positional information into the transformer a
 
 This repository contains a PyTorch implementation of the Rotary Positional Encoding (RoPE) method. RoPE is a novel technique for positional encoding in transformers that unifies absolute and relative approaches.
 
-Access the Colab File: [RoPE](RoPE.ipynb)
+Access the Colab File: [RoPE.ipynb](https://colab.research.google.com/drive/11SKfzvMotuvvXNqY9qBpsD2RQX1PK7rP?usp=sharing))
 
 ## Acknowledgements
 
